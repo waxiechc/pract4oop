@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>Tom</Name>
+    <Age>37</Age>
+    <Gender>Male</Gender>
+    <Position>Software Engineer</Position>
+    <Company>
+      <Name>Microsoft</Name>
+      <Industry>Software</Industry>
+      <NumberOfEmployees>163000</NumberOfEmployees>
+      <Country>USA</Country>
+    </Company>
+    <Email>tom@microsoft.com</Email>
+  </Person>
+  <Person>
+    <Name>Bob</Name>
+    <Age>41</Age>
+    <Gender>Male</Gender>
+    <Position>Product Manager</Position>
+    <Company>
+      <Name>Google</Name>
+      <Industry>Technology</Industry>
+      <NumberOfEmployees>135301</NumberOfEmployees>
+      <Country>USA</Country>
+    </Company>
+    <Email>bob@google.com</Email>
+  </Person>
+  <Person>
+    <Name>Alice</Name>
+    <Age>30</Age>
+    <Gender>Female</Gender>
+    <Position>Designer</Position>
+    <Company>
+      <Name>Microsoft</Name>
+      <Industry>Software</Industry>
+      <NumberOfEmployees>163000</NumberOfEmployees>
+      <Country>USA</Country>
+    </Company>
+    <Email>alice@microsoft.com</Email>
+  </Person>
+</ArrayOfPerson>
